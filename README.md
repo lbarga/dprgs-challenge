@@ -4,10 +4,6 @@
 
 - [Installation](#installation)
 - [Scripts](#scripts)
-- [Dependencies](#dependencies)
-- [Dev Dependencies](#dev-dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
